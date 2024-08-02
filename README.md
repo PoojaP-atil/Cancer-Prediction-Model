@@ -1,6 +1,6 @@
 1. Data Cleaning:
 Drop irrelevant or redundant columns (e.g., the 'Unnamed: 32' column which seems to have all NaN values).
-Check for and handle any missing values.
+Check for and handle any missing values
 
 2. Exploratory Data Analysis (EDA):
 Summarize the data to understand the distribution of features.
