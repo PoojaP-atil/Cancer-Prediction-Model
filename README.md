@@ -15,4 +15,4 @@ Split the data into training and testing sets.
 Train and evaluate ensemble models (Random Forest, Gradient Boosting, AdaBoost).
 Use performance metrics such as precision, recall, F1-score, and ROC-AUC.
 
-By comparing the precision, recall, F1-score, and ROC-AUC of the three models, we determine the best model is ADA BOOST MODEL for predicting breast cancer in this dataset.
+By comparing the precision, recall, F1-score, and ROC-AUC of the three models, we determine the best model is ADA BOOST MODEL for predicting breast cancer in this dataset
